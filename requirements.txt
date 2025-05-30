@@ -1,0 +1,16 @@
+langchain
+langchain-community
+python-dotenv
+langchain-huggingface
+langchain-ibm
+langchain-core
+langchain-text-splitters
+langgraph
+pypdf
+langchain-ollama
+langchain-openai
+streamlit
+faiss-cpu
+PyPDF2
+markdown2
+pdfkit
